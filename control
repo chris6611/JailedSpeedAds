@@ -1,9 +1,9 @@
-Package: com.34306.adspeed
-Name: Ads Speed
+Package: com.chris6611.adspeed
+Name: Jailed Ads Speed
 Depends: mobilesubstrate
-Version: 2.0
+Version: 1.0
 Architecture: iphoneos-arm
-Description: A simple tweak that can inject into app to block all ads.
-Maintainer: Little 34306
-Author: 34306
+Description: A simple tweak that can inject into game to speedup ads for reward.
+Maintainer: Chris
+Author: chris6611
 Section: Tweaks
