@@ -2,7 +2,7 @@ Package: com.chris6611.adspeed
 Name: Jailed Ads Speed
 Depends: mobilesubstrate
 Version: 1.0
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Description: A simple tweak that can inject into game to speedup ads for reward.
 Maintainer: Chris
 Author: chris6611
