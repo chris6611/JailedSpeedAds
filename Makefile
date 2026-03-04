@@ -1,3 +1,4 @@
+TARGET := iphone:clang:latest:14.0
 ARCHS = arm64 arm64e
 DEBUG = 0
 FINALPACKAGE = 1
@@ -15,6 +16,3 @@ $(TWEAK_NAME)_FRAMEWORKS = UIKit QuartzCore CoreGraphics AVFoundation
 
 
 include $(THEOS_MAKE_PATH)/tweak.mk
-
-after-install::
-	install.exec "killall -9 Messenger"
